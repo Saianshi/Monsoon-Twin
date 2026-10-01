@@ -1,3 +1,11 @@
+## ⚠️ License
+
+© 2026 Saianshi Mohapatra. All rights reserved.
+
+This repository and its code are here only for viewing. You are not allowed to copy, download, reuse or share any part of it without my permission.
+
+If you'd like to use this project or any part of it, please contact me at saianshimohapatraofficial@gmail.com.
+
 # Monsoon Twin
 
 A physics-based digital twin of a 100 m² plastic polyhouse growing tomato in
